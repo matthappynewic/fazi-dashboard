@@ -1,0 +1,1323 @@
+{
+  "result": {
+    "operater": "Operater 1",
+    "period": "Monday, April 1, 2019 - Wednesday, April 3, 2019",
+    "gameStatisticsPerGame": [
+      {
+        "gameName": "Postman",
+        "totalBet": "316.48",
+        "totalWin": "280.64",
+        "rounds": "6,834",
+        "jackpotValue": "0.00",
+        "result": "35.85",
+        "payout": "88.67%",
+        "currency": "EUR"
+      },
+      {
+        "gameName": "Templars Quest",
+        "totalBet": "186.74",
+        "totalWin": "145.68",
+        "rounds": "3,530",
+        "jackpotValue": "0.00",
+        "result": "41.07",
+        "payout": "78.01%",
+        "currency": "EUR"
+      },
+      {
+        "gameName": "Star Gems",
+        "totalBet": "226.05",
+        "totalWin": "178.45",
+        "rounds": "3,125",
+        "jackpotValue": "0.00",
+        "result": "47.61",
+        "payout": "78.94%",
+        "currency": "EUR"
+      },
+      {
+        "gameName": "Viking gold",
+        "totalBet": "7,962.04",
+        "totalWin": "9,157.76",
+        "rounds": "25,957",
+        "jackpotValue": "0.00",
+        "result": "-1,195.78",
+        "payout": "115.02%",
+        "currency": "EUR"
+      },
+      {
+        "gameName": "Forest Fruits",
+        "totalBet": "343.54",
+        "totalWin": "295.51",
+        "rounds": "2,145",
+        "jackpotValue": "0.00",
+        "result": "48.06",
+        "payout": "86.01%",
+        "currency": "EUR"
+      },
+      {
+        "gameName": "Monsters",
+        "totalBet": "135.46",
+        "totalWin": "100.30",
+        "rounds": "2,810",
+        "jackpotValue": "0.00",
+        "result": "35.14",
+        "payout": "74.06%",
+        "currency": "EUR"
+      },
+      {
+        "gameName": "Tropical Hot",
+        "totalBet": "1,100.44",
+        "totalWin": "1,010.66",
+        "rounds": "11,720",
+        "jackpotValue": "0.00",
+        "result": "89.81",
+        "payout": "91.84%",
+        "currency": "EUR"
+      },
+      {
+        "gameName": "Book of Bruno",
+        "totalBet": "3,265.53",
+        "totalWin": "2,855.71",
+        "rounds": "34,693",
+        "jackpotValue": "0.00",
+        "result": "409.86",
+        "payout": "87.45%",
+        "currency": "EUR"
+      },
+      {
+        "gameName": "Pirates",
+        "totalBet": "818.31",
+        "totalWin": "734.93",
+        "rounds": "8,865",
+        "jackpotValue": "0.00",
+        "result": "83.33",
+        "payout": "89.82%",
+        "currency": "EUR"
+      },
+      {
+        "gameName": "Crystals of Magic",
+        "totalBet": "2,332.06",
+        "totalWin": "2,190.96",
+        "rounds": "17,020",
+        "jackpotValue": "0.00",
+        "result": "141.09",
+        "payout": "93.95%",
+        "currency": "EUR"
+      },
+      {
+        "gameName": "Turbo Hot 40",
+        "totalBet": "36,933.43",
+        "totalWin": "35,216.68",
+        "rounds": "128,532",
+        "jackpotValue": "0.00",
+        "result": "1,716.71",
+        "payout": "95.35%",
+        "currency": "EUR"
+      },
+      {
+        "gameName": "Space Guardians",
+        "totalBet": "170.84",
+        "totalWin": "152.92",
+        "rounds": "4,425",
+        "jackpotValue": "0.00",
+        "result": "17.90",
+        "payout": "89.52%",
+        "currency": "EUR"
+      },
+      {
+        "gameName": "Crystal Hot 40",
+        "totalBet": "40,816.18",
+        "totalWin": "39,448.35",
+        "rounds": "147,259",
+        "jackpotValue": "0.00",
+        "result": "1,367.79",
+        "payout": "96.65%",
+        "currency": "EUR"
+      },
+      {
+        "gameName": "Pyramid",
+        "totalBet": "7,822.51",
+        "totalWin": "6,786.79",
+        "rounds": "64,247",
+        "jackpotValue": "0.00",
+        "result": "1,035.71",
+        "payout": "86.76%",
+        "currency": "EUR"
+      },
+      {
+        "gameName": "Jolly Poker",
+        "totalBet": "24,966.34",
+        "totalWin": "25,908.88",
+        "rounds": "14,270",
+        "jackpotValue": "0.00",
+        "result": "-942.56",
+        "payout": "103.78%",
+        "currency": "EUR"
+      },
+      {
+        "gameName": "Wild West",
+        "totalBet": "1,202.04",
+        "totalWin": "1,232.04",
+        "rounds": "4,186",
+        "jackpotValue": "0.00",
+        "result": "-29.96",
+        "payout": "102.49%",
+        "currency": "EUR"
+      },
+      {
+        "gameName": "Fruits and Stars",
+        "totalBet": "5,212.01",
+        "totalWin": "5,279.53",
+        "rounds": "50,535",
+        "jackpotValue": "0.00",
+        "result": "-67.58",
+        "payout": "101.30%",
+        "currency": "EUR"
+      },
+      {
+        "gameName": "Wizard",
+        "totalBet": "1,364.11",
+        "totalWin": "1,098.44",
+        "rounds": "10,877",
+        "jackpotValue": "0.00",
+        "result": "265.70",
+        "payout": "80.52%",
+        "currency": "EUR"
+      },
+      {
+        "gameName": "Deep Jungle",
+        "totalBet": "1,122.14",
+        "totalWin": "1,075.28",
+        "rounds": "27,974",
+        "jackpotValue": "0.00",
+        "result": "46.89",
+        "payout": "95.82%",
+        "currency": "EUR"
+      },
+      {
+        "gameName": "Triple Hot",
+        "totalBet": "2,316.51",
+        "totalWin": "2,380.00",
+        "rounds": "25,407",
+        "jackpotValue": "0.00",
+        "result": "-63.52",
+        "payout": "102.74%",
+        "currency": "EUR"
+      },
+      {
+        "gameName": "Starlight",
+        "totalBet": "1,198.65",
+        "totalWin": "1,178.31",
+        "rounds": "33,648",
+        "jackpotValue": "0.00",
+        "result": "20.36",
+        "payout": "98.30%",
+        "currency": "EUR"
+      },
+      {
+        "gameName": "Neon Hot 5",
+        "totalBet": "589.28",
+        "totalWin": "421.19",
+        "rounds": "7,538",
+        "jackpotValue": "0.00",
+        "result": "168.06",
+        "payout": "71.48%",
+        "currency": "EUR"
+      },
+      {
+        "gameName": "Diamonds",
+        "totalBet": "2,727.19",
+        "totalWin": "2,752.63",
+        "rounds": "30,080",
+        "jackpotValue": "0.00",
+        "result": "-25.39",
+        "payout": "100.93%",
+        "currency": "EUR"
+      },
+      {
+        "gameName": "Burning Ice",
+        "totalBet": "4,181.14",
+        "totalWin": "3,797.12",
+        "rounds": "29,981",
+        "jackpotValue": "0.00",
+        "result": "384.08",
+        "payout": "90.81%",
+        "currency": "EUR"
+      },
+      {
+        "gameName": "Live European Roulette",
+        "totalBet": "38,905.12",
+        "totalWin": "37,668.55",
+        "rounds": "2,895",
+        "jackpotValue": "0.00",
+        "result": "1,236.55",
+        "payout": "96.82%",
+        "currency": "EUR"
+      },
+      {
+        "gameName": "Mega Hot",
+        "totalBet": "2,907.93",
+        "totalWin": "2,393.38",
+        "rounds": "19,221",
+        "jackpotValue": "0.00",
+        "result": "514.52",
+        "payout": "82.31%",
+        "currency": "EUR"
+      },
+      {
+        "gameName": "Roulette",
+        "totalBet": "48,671.88",
+        "totalWin": "45,830.09",
+        "rounds": "12,352",
+        "jackpotValue": "0.00",
+        "result": "2,841.81",
+        "payout": "94.16%",
+        "currency": "EUR"
+      },
+      {
+        "gameName": "Book of Spells",
+        "totalBet": "26,637.30",
+        "totalWin": "26,047.66",
+        "rounds": "264,629",
+        "jackpotValue": "0.00",
+        "result": "589.58",
+        "payout": "97.79%",
+        "currency": "EUR"
+      },
+      {
+        "gameName": "Triple Crown",
+        "totalBet": "3,561.42",
+        "totalWin": "3,339.65",
+        "rounds": "1,314",
+        "jackpotValue": "0.00",
+        "result": "221.81",
+        "payout": "93.77%",
+        "currency": "EUR"
+      },
+      {
+        "gameName": "Hot Stars",
+        "totalBet": "10,708.14",
+        "totalWin": "10,126.45",
+        "rounds": "52,272",
+        "jackpotValue": "0.00",
+        "result": "581.73",
+        "payout": "94.57%",
+        "currency": "EUR"
+      },
+      {
+        "gameName": "Juicy Hot",
+        "totalBet": "633.62",
+        "totalWin": "592.34",
+        "rounds": "9,325",
+        "jackpotValue": "0.00",
+        "result": "41.21",
+        "payout": "93.50%",
+        "currency": "EUR"
+      }
+    ],
+    "gameStatisticsSum": {
+      "gameName": "SUM",
+      "totalBet": "279,334.43",
+      "totalWin": "269,676.88",
+      "rounds": "1,057,666",
+      "jackpotValue": "0.00",
+      "result": "9,657.44",
+      "payout": "96.54%",
+      "currency": "EUR"
+    },
+    "operaterGamesStatistics": {
+      "Postman": [
+        {
+          "period": "01.04.2019",
+          "totalBet": 69.04,
+          "totalWin": 53.33,
+          "rounds": 919,
+          "jackpotValue": 0,
+          "result": 15.7,
+          "payout": 77.26,
+          "currency": "EUR"
+        },
+        {
+          "period": "02.04.2019",
+          "totalBet": 49.37,
+          "totalWin": 60.25,
+          "rounds": 2288,
+          "jackpotValue": 0,
+          "result": -10.86,
+          "payout": 122,
+          "currency": "EUR"
+        },
+        {
+          "period": "03.04.2019",
+          "totalBet": 198.07,
+          "totalWin": 167.06,
+          "rounds": 3627,
+          "jackpotValue": 0,
+          "result": 31.01,
+          "payout": 84.34,
+          "currency": "EUR"
+        }
+      ],
+      "Templars Quest": [
+        {
+          "period": "01.04.2019",
+          "totalBet": 14.2,
+          "totalWin": 8.46,
+          "rounds": 296,
+          "jackpotValue": 0,
+          "result": 5.75,
+          "payout": 59.51,
+          "currency": "EUR"
+        },
+        {
+          "period": "02.04.2019",
+          "totalBet": 62.16,
+          "totalWin": 46.99,
+          "rounds": 1766,
+          "jackpotValue": 0,
+          "result": 15.16,
+          "payout": 75.61,
+          "currency": "EUR"
+        },
+        {
+          "period": "03.04.2019",
+          "totalBet": 110.38,
+          "totalWin": 90.23,
+          "rounds": 1468,
+          "jackpotValue": 0,
+          "result": 20.16,
+          "payout": 81.74,
+          "currency": "EUR"
+        }
+      ],
+      "Star Gems": [
+        {
+          "period": "01.04.2019",
+          "totalBet": 112.18,
+          "totalWin": 104.25,
+          "rounds": 1544,
+          "jackpotValue": 0,
+          "result": 7.93,
+          "payout": 92.93,
+          "currency": "EUR"
+        },
+        {
+          "period": "02.04.2019",
+          "totalBet": 66.25,
+          "totalWin": 44.27,
+          "rounds": 1100,
+          "jackpotValue": 0,
+          "result": 21.99,
+          "payout": 66.81,
+          "currency": "EUR"
+        },
+        {
+          "period": "03.04.2019",
+          "totalBet": 47.62,
+          "totalWin": 29.93,
+          "rounds": 481,
+          "jackpotValue": 0,
+          "result": 17.69,
+          "payout": 62.85,
+          "currency": "EUR"
+        }
+      ],
+      "Viking gold": [
+        {
+          "period": "01.04.2019",
+          "totalBet": 3264.92,
+          "totalWin": 3871.8,
+          "rounds": 11080,
+          "jackpotValue": 0,
+          "result": -606.9,
+          "payout": 118.59,
+          "currency": "EUR"
+        },
+        {
+          "period": "02.04.2019",
+          "totalBet": 998.38,
+          "totalWin": 1238.65,
+          "rounds": 6628,
+          "jackpotValue": 0,
+          "result": -240.3,
+          "payout": 124.07,
+          "currency": "EUR"
+        },
+        {
+          "period": "03.04.2019",
+          "totalBet": 3698.74,
+          "totalWin": 4047.31,
+          "rounds": 8249,
+          "jackpotValue": 0,
+          "result": -348.58,
+          "payout": 109.42,
+          "currency": "EUR"
+        }
+      ],
+      "Forest Fruits": [
+        {
+          "period": "01.04.2019",
+          "totalBet": 217.98,
+          "totalWin": 170.01,
+          "rounds": 571,
+          "jackpotValue": 0,
+          "result": 48,
+          "payout": 77.98,
+          "currency": "EUR"
+        },
+        {
+          "period": "02.04.2019",
+          "totalBet": 37.03,
+          "totalWin": 38.41,
+          "rounds": 792,
+          "jackpotValue": 0,
+          "result": -1.37,
+          "payout": 103.7,
+          "currency": "EUR"
+        },
+        {
+          "period": "03.04.2019",
+          "totalBet": 88.53,
+          "totalWin": 87.09,
+          "rounds": 782,
+          "jackpotValue": 0,
+          "result": 1.43,
+          "payout": 98.38,
+          "currency": "EUR"
+        }
+      ],
+      "Monsters": [
+        {
+          "period": "01.04.2019",
+          "totalBet": 68.78,
+          "totalWin": 61.8,
+          "rounds": 1753,
+          "jackpotValue": 0,
+          "result": 6.96,
+          "payout": 89.88,
+          "currency": "EUR"
+        },
+        {
+          "period": "02.04.2019",
+          "totalBet": 5.43,
+          "totalWin": 1.47,
+          "rounds": 82,
+          "jackpotValue": 0,
+          "result": 3.95,
+          "payout": 27.26,
+          "currency": "EUR"
+        },
+        {
+          "period": "03.04.2019",
+          "totalBet": 61.25,
+          "totalWin": 37.03,
+          "rounds": 975,
+          "jackpotValue": 0,
+          "result": 24.23,
+          "payout": 60.44,
+          "currency": "EUR"
+        }
+      ],
+      "Tropical Hot": [
+        {
+          "period": "01.04.2019",
+          "totalBet": 531.81,
+          "totalWin": 491.44,
+          "rounds": 4262,
+          "jackpotValue": 0,
+          "result": 40.38,
+          "payout": 92.41,
+          "currency": "EUR"
+        },
+        {
+          "period": "02.04.2019",
+          "totalBet": 256.21,
+          "totalWin": 228.93,
+          "rounds": 3099,
+          "jackpotValue": 0,
+          "result": 27.28,
+          "payout": 89.35,
+          "currency": "EUR"
+        },
+        {
+          "period": "03.04.2019",
+          "totalBet": 312.42,
+          "totalWin": 290.29,
+          "rounds": 4359,
+          "jackpotValue": 0,
+          "result": 22.15,
+          "payout": 92.91,
+          "currency": "EUR"
+        }
+      ],
+      "Book of Bruno": [
+        {
+          "period": "01.04.2019",
+          "totalBet": 903.93,
+          "totalWin": 854.3,
+          "rounds": 7041,
+          "jackpotValue": 0,
+          "result": 49.64,
+          "payout": 94.51,
+          "currency": "EUR"
+        },
+        {
+          "period": "02.04.2019",
+          "totalBet": 1525.52,
+          "totalWin": 1301.08,
+          "rounds": 16470,
+          "jackpotValue": 0,
+          "result": 224.46,
+          "payout": 85.29,
+          "currency": "EUR"
+        },
+        {
+          "period": "03.04.2019",
+          "totalBet": 836.08,
+          "totalWin": 700.33,
+          "rounds": 11182,
+          "jackpotValue": 0,
+          "result": 135.76,
+          "payout": 83.76,
+          "currency": "EUR"
+        }
+      ],
+      "Pirates": [
+        {
+          "period": "01.04.2019",
+          "totalBet": 265.15,
+          "totalWin": 253.4,
+          "rounds": 2893,
+          "jackpotValue": 0,
+          "result": 11.76,
+          "payout": 95.56,
+          "currency": "EUR"
+        },
+        {
+          "period": "02.04.2019",
+          "totalBet": 306.14,
+          "totalWin": 285.94,
+          "rounds": 3523,
+          "jackpotValue": 0,
+          "result": 20.14,
+          "payout": 93.42,
+          "currency": "EUR"
+        },
+        {
+          "period": "03.04.2019",
+          "totalBet": 247.02,
+          "totalWin": 195.59,
+          "rounds": 2449,
+          "jackpotValue": 0,
+          "result": 51.43,
+          "payout": 79.18,
+          "currency": "EUR"
+        }
+      ],
+      "Crystals of Magic": [
+        {
+          "period": "01.04.2019",
+          "totalBet": 607.56,
+          "totalWin": 491.39,
+          "rounds": 4757,
+          "jackpotValue": 0,
+          "result": 116.18,
+          "payout": 80.88,
+          "currency": "EUR"
+        },
+        {
+          "period": "02.04.2019",
+          "totalBet": 1269.65,
+          "totalWin": 1268.09,
+          "rounds": 5506,
+          "jackpotValue": 0,
+          "result": 1.55,
+          "payout": 99.88,
+          "currency": "EUR"
+        },
+        {
+          "period": "03.04.2019",
+          "totalBet": 454.85,
+          "totalWin": 431.48,
+          "rounds": 6757,
+          "jackpotValue": 0,
+          "result": 23.36,
+          "payout": 94.86,
+          "currency": "EUR"
+        }
+      ],
+      "Turbo Hot 40": [
+        {
+          "period": "01.04.2019",
+          "totalBet": 16167.32,
+          "totalWin": 15412.54,
+          "rounds": 28035,
+          "jackpotValue": 0,
+          "result": 754.78,
+          "payout": 95.33,
+          "currency": "EUR"
+        },
+        {
+          "period": "02.04.2019",
+          "totalBet": 7203.22,
+          "totalWin": 6472.61,
+          "rounds": 35764,
+          "jackpotValue": 0,
+          "result": 730.6,
+          "payout": 89.86,
+          "currency": "EUR"
+        },
+        {
+          "period": "03.04.2019",
+          "totalBet": 13562.89,
+          "totalWin": 13331.53,
+          "rounds": 64733,
+          "jackpotValue": 0,
+          "result": 231.33,
+          "payout": 98.29,
+          "currency": "EUR"
+        }
+      ],
+      "Space Guardians": [
+        {
+          "period": "01.04.2019",
+          "totalBet": 55.43,
+          "totalWin": 48.24,
+          "rounds": 2200,
+          "jackpotValue": 0,
+          "result": 7.2,
+          "payout": 87.01,
+          "currency": "EUR"
+        },
+        {
+          "period": "02.04.2019",
+          "totalBet": 43.36,
+          "totalWin": 47.88,
+          "rounds": 747,
+          "jackpotValue": 0,
+          "result": -4.52,
+          "payout": 110.42,
+          "currency": "EUR"
+        },
+        {
+          "period": "03.04.2019",
+          "totalBet": 72.05,
+          "totalWin": 56.8,
+          "rounds": 1478,
+          "jackpotValue": 0,
+          "result": 15.22,
+          "payout": 78.88,
+          "currency": "EUR"
+        }
+      ],
+      "Crystal Hot 40": [
+        {
+          "period": "01.04.2019",
+          "totalBet": 19215.53,
+          "totalWin": 19114.68,
+          "rounds": 48618,
+          "jackpotValue": 0,
+          "result": 100.83,
+          "payout": 99.48,
+          "currency": "EUR"
+        },
+        {
+          "period": "02.04.2019",
+          "totalBet": 13049.69,
+          "totalWin": 12242.13,
+          "rounds": 58429,
+          "jackpotValue": 0,
+          "result": 807.57,
+          "payout": 93.81,
+          "currency": "EUR"
+        },
+        {
+          "period": "03.04.2019",
+          "totalBet": 8550.96,
+          "totalWin": 8091.54,
+          "rounds": 40212,
+          "jackpotValue": 0,
+          "result": 459.39,
+          "payout": 94.63,
+          "currency": "EUR"
+        }
+      ],
+      "Pyramid": [
+        {
+          "period": "01.04.2019",
+          "totalBet": 4001.57,
+          "totalWin": 3618.98,
+          "rounds": 22901,
+          "jackpotValue": 0,
+          "result": 382.6,
+          "payout": 90.44,
+          "currency": "EUR"
+        },
+        {
+          "period": "02.04.2019",
+          "totalBet": 3090.39,
+          "totalWin": 2502.32,
+          "rounds": 28180,
+          "jackpotValue": 0,
+          "result": 588.06,
+          "payout": 80.97,
+          "currency": "EUR"
+        },
+        {
+          "period": "03.04.2019",
+          "totalBet": 730.55,
+          "totalWin": 665.49,
+          "rounds": 13166,
+          "jackpotValue": 0,
+          "result": 65.05,
+          "payout": 91.1,
+          "currency": "EUR"
+        }
+      ],
+      "Jolly Poker": [
+        {
+          "period": "01.04.2019",
+          "totalBet": 9601.92,
+          "totalWin": 10993.02,
+          "rounds": 3917,
+          "jackpotValue": 0,
+          "result": -1391.1,
+          "payout": 114.49,
+          "currency": "EUR"
+        },
+        {
+          "period": "02.04.2019",
+          "totalBet": 10651.47,
+          "totalWin": 11405.77,
+          "rounds": 5698,
+          "jackpotValue": 0,
+          "result": -754.29,
+          "payout": 107.08,
+          "currency": "EUR"
+        },
+        {
+          "period": "03.04.2019",
+          "totalBet": 4712.95,
+          "totalWin": 3510.09,
+          "rounds": 4655,
+          "jackpotValue": 0,
+          "result": 1202.83,
+          "payout": 74.48,
+          "currency": "EUR"
+        }
+      ],
+      "Wild West": [
+        {
+          "period": "01.04.2019",
+          "totalBet": 451.04,
+          "totalWin": 367.5,
+          "rounds": 1292,
+          "jackpotValue": 0,
+          "result": 83.57,
+          "payout": 81.47,
+          "currency": "EUR"
+        },
+        {
+          "period": "02.04.2019",
+          "totalBet": 250.26,
+          "totalWin": 221.08,
+          "rounds": 1417,
+          "jackpotValue": 0,
+          "result": 29.18,
+          "payout": 88.34,
+          "currency": "EUR"
+        },
+        {
+          "period": "03.04.2019",
+          "totalBet": 500.74,
+          "totalWin": 643.46,
+          "rounds": 1477,
+          "jackpotValue": 0,
+          "result": -142.71,
+          "payout": 128.5,
+          "currency": "EUR"
+        }
+      ],
+      "Fruits and Stars": [
+        {
+          "period": "01.04.2019",
+          "totalBet": 926.06,
+          "totalWin": 877.71,
+          "rounds": 12177,
+          "jackpotValue": 0,
+          "result": 48.33,
+          "payout": 94.78,
+          "currency": "EUR"
+        },
+        {
+          "period": "02.04.2019",
+          "totalBet": 2688.55,
+          "totalWin": 2851.71,
+          "rounds": 21576,
+          "jackpotValue": 0,
+          "result": -163.16,
+          "payout": 106.07,
+          "currency": "EUR"
+        },
+        {
+          "period": "03.04.2019",
+          "totalBet": 1597.4,
+          "totalWin": 1550.11,
+          "rounds": 16782,
+          "jackpotValue": 0,
+          "result": 47.25,
+          "payout": 97.04,
+          "currency": "EUR"
+        }
+      ],
+      "Wizard": [
+        {
+          "period": "01.04.2019",
+          "totalBet": 1078.67,
+          "totalWin": 852.71,
+          "rounds": 5887,
+          "jackpotValue": 0,
+          "result": 226,
+          "payout": 79.05,
+          "currency": "EUR"
+        },
+        {
+          "period": "02.04.2019",
+          "totalBet": 152.94,
+          "totalWin": 122.6,
+          "rounds": 1936,
+          "jackpotValue": 0,
+          "result": 30.32,
+          "payout": 80.18,
+          "currency": "EUR"
+        },
+        {
+          "period": "03.04.2019",
+          "totalBet": 132.5,
+          "totalWin": 123.13,
+          "rounds": 3054,
+          "jackpotValue": 0,
+          "result": 9.38,
+          "payout": 92.92,
+          "currency": "EUR"
+        }
+      ],
+      "Deep Jungle": [
+        {
+          "period": "01.04.2019",
+          "totalBet": 520.27,
+          "totalWin": 519.89,
+          "rounds": 12413,
+          "jackpotValue": 0,
+          "result": 0.39,
+          "payout": 99.93,
+          "currency": "EUR"
+        },
+        {
+          "period": "02.04.2019",
+          "totalBet": 275.53,
+          "totalWin": 225.35,
+          "rounds": 7013,
+          "jackpotValue": 0,
+          "result": 50.19,
+          "payout": 81.78,
+          "currency": "EUR"
+        },
+        {
+          "period": "03.04.2019",
+          "totalBet": 326.34,
+          "totalWin": 330.04,
+          "rounds": 8548,
+          "jackpotValue": 0,
+          "result": -3.69,
+          "payout": 101.13,
+          "currency": "EUR"
+        }
+      ],
+      "Triple Hot": [
+        {
+          "period": "01.04.2019",
+          "totalBet": 594.83,
+          "totalWin": 655.65,
+          "rounds": 7420,
+          "jackpotValue": 0,
+          "result": -60.86,
+          "payout": 110.23,
+          "currency": "EUR"
+        },
+        {
+          "period": "02.04.2019",
+          "totalBet": 1468.89,
+          "totalWin": 1514.8,
+          "rounds": 11218,
+          "jackpotValue": 0,
+          "result": -45.9,
+          "payout": 103.12,
+          "currency": "EUR"
+        },
+        {
+          "period": "03.04.2019",
+          "totalBet": 252.79,
+          "totalWin": 209.55,
+          "rounds": 6769,
+          "jackpotValue": 0,
+          "result": 43.24,
+          "payout": 82.89,
+          "currency": "EUR"
+        }
+      ],
+      "Starlight": [
+        {
+          "period": "01.04.2019",
+          "totalBet": 449.37,
+          "totalWin": 457.85,
+          "rounds": 10954,
+          "jackpotValue": 0,
+          "result": -8.51,
+          "payout": 101.89,
+          "currency": "EUR"
+        },
+        {
+          "period": "02.04.2019",
+          "totalBet": 466.78,
+          "totalWin": 434.59,
+          "rounds": 12905,
+          "jackpotValue": 0,
+          "result": 32.21,
+          "payout": 93.1,
+          "currency": "EUR"
+        },
+        {
+          "period": "03.04.2019",
+          "totalBet": 282.5,
+          "totalWin": 285.87,
+          "rounds": 9789,
+          "jackpotValue": 0,
+          "result": -3.34,
+          "payout": 101.18,
+          "currency": "EUR"
+        }
+      ],
+      "Neon Hot 5": [
+        {
+          "period": "01.04.2019",
+          "totalBet": 487.75,
+          "totalWin": 324.97,
+          "rounds": 1254,
+          "jackpotValue": 0,
+          "result": 162.75,
+          "payout": 66.63,
+          "currency": "EUR"
+        },
+        {
+          "period": "02.04.2019",
+          "totalBet": 63.17,
+          "totalWin": 57.48,
+          "rounds": 3776,
+          "jackpotValue": 0,
+          "result": 5.69,
+          "payout": 90.99,
+          "currency": "EUR"
+        },
+        {
+          "period": "03.04.2019",
+          "totalBet": 38.36,
+          "totalWin": 38.74,
+          "rounds": 2508,
+          "jackpotValue": 0,
+          "result": -0.38,
+          "payout": 100.99,
+          "currency": "EUR"
+        }
+      ],
+      "Diamonds": [
+        {
+          "period": "01.04.2019",
+          "totalBet": 401.28,
+          "totalWin": 409.63,
+          "rounds": 7982,
+          "jackpotValue": 0,
+          "result": -8.35,
+          "payout": 102.08,
+          "currency": "EUR"
+        },
+        {
+          "period": "02.04.2019",
+          "totalBet": 1332.23,
+          "totalWin": 1282.66,
+          "rounds": 12748,
+          "jackpotValue": 0,
+          "result": 49.59,
+          "payout": 96.28,
+          "currency": "EUR"
+        },
+        {
+          "period": "03.04.2019",
+          "totalBet": 993.68,
+          "totalWin": 1060.34,
+          "rounds": 9350,
+          "jackpotValue": 0,
+          "result": -66.63,
+          "payout": 106.71,
+          "currency": "EUR"
+        }
+      ],
+      "Burning Ice": [
+        {
+          "period": "01.04.2019",
+          "totalBet": 1887.68,
+          "totalWin": 1701.72,
+          "rounds": 11800,
+          "jackpotValue": 0,
+          "result": 186.02,
+          "payout": 90.15,
+          "currency": "EUR"
+        },
+        {
+          "period": "02.04.2019",
+          "totalBet": 1088.46,
+          "totalWin": 949.49,
+          "rounds": 9053,
+          "jackpotValue": 0,
+          "result": 138.95,
+          "payout": 87.23,
+          "currency": "EUR"
+        },
+        {
+          "period": "03.04.2019",
+          "totalBet": 1205,
+          "totalWin": 1145.91,
+          "rounds": 9128,
+          "jackpotValue": 0,
+          "result": 59.11,
+          "payout": 95.09,
+          "currency": "EUR"
+        }
+      ],
+      "Live European Roulette": [
+        {
+          "period": "01.04.2019",
+          "totalBet": 2300.25,
+          "totalWin": 1986.63,
+          "rounds": 854,
+          "jackpotValue": 0,
+          "result": 313.62,
+          "payout": 86.37,
+          "currency": "EUR"
+        },
+        {
+          "period": "02.04.2019",
+          "totalBet": 35420.37,
+          "totalWin": 34621.4,
+          "rounds": 1328,
+          "jackpotValue": 0,
+          "result": 798.96,
+          "payout": 97.74,
+          "currency": "EUR"
+        },
+        {
+          "period": "03.04.2019",
+          "totalBet": 1184.5,
+          "totalWin": 1060.52,
+          "rounds": 713,
+          "jackpotValue": 0,
+          "result": 123.97,
+          "payout": 89.53,
+          "currency": "EUR"
+        }
+      ],
+      "Mega Hot": [
+        {
+          "period": "01.04.2019",
+          "totalBet": 1050.46,
+          "totalWin": 718.11,
+          "rounds": 6113,
+          "jackpotValue": 0,
+          "result": 332.35,
+          "payout": 68.36,
+          "currency": "EUR"
+        },
+        {
+          "period": "02.04.2019",
+          "totalBet": 674.78,
+          "totalWin": 582.71,
+          "rounds": 6221,
+          "jackpotValue": 0,
+          "result": 92.07,
+          "payout": 86.36,
+          "currency": "EUR"
+        },
+        {
+          "period": "03.04.2019",
+          "totalBet": 1182.69,
+          "totalWin": 1092.56,
+          "rounds": 6887,
+          "jackpotValue": 0,
+          "result": 90.1,
+          "payout": 92.38,
+          "currency": "EUR"
+        }
+      ],
+      "Roulette": [
+        {
+          "period": "01.04.2019",
+          "totalBet": 12955.68,
+          "totalWin": 12469.03,
+          "rounds": 4089,
+          "jackpotValue": 0,
+          "result": 486.65,
+          "payout": 96.24,
+          "currency": "EUR"
+        },
+        {
+          "period": "02.04.2019",
+          "totalBet": 17088.71,
+          "totalWin": 14126.84,
+          "rounds": 4362,
+          "jackpotValue": 0,
+          "result": 2961.88,
+          "payout": 82.67,
+          "currency": "EUR"
+        },
+        {
+          "period": "03.04.2019",
+          "totalBet": 18627.49,
+          "totalWin": 19234.22,
+          "rounds": 3901,
+          "jackpotValue": 0,
+          "result": -606.72,
+          "payout": 103.26,
+          "currency": "EUR"
+        }
+      ],
+      "Book of Spells": [
+        {
+          "period": "01.04.2019",
+          "totalBet": 8288.38,
+          "totalWin": 8139.19,
+          "rounds": 91625,
+          "jackpotValue": 0,
+          "result": 149.16,
+          "payout": 98.2,
+          "currency": "EUR"
+        },
+        {
+          "period": "02.04.2019",
+          "totalBet": 11066.25,
+          "totalWin": 11356.44,
+          "rounds": 87702,
+          "jackpotValue": 0,
+          "result": -290.24,
+          "payout": 102.62,
+          "currency": "EUR"
+        },
+        {
+          "period": "03.04.2019",
+          "totalBet": 7282.67,
+          "totalWin": 6552.03,
+          "rounds": 85302,
+          "jackpotValue": 0,
+          "result": 730.66,
+          "payout": 89.97,
+          "currency": "EUR"
+        }
+      ],
+      "Triple Crown": [
+        {
+          "period": "01.04.2019",
+          "totalBet": 1258.2,
+          "totalWin": 1271.31,
+          "rounds": 411,
+          "jackpotValue": 0,
+          "result": -13.12,
+          "payout": 101.04,
+          "currency": "EUR"
+        },
+        {
+          "period": "02.04.2019",
+          "totalBet": 1842.67,
+          "totalWin": 1682.24,
+          "rounds": 493,
+          "jackpotValue": 0,
+          "result": 160.45,
+          "payout": 91.29,
+          "currency": "EUR"
+        },
+        {
+          "period": "03.04.2019",
+          "totalBet": 460.55,
+          "totalWin": 386.1,
+          "rounds": 410,
+          "jackpotValue": 0,
+          "result": 74.48,
+          "payout": 83.83,
+          "currency": "EUR"
+        }
+      ],
+      "Hot Stars": [
+        {
+          "period": "01.04.2019",
+          "totalBet": 3016.32,
+          "totalWin": 3321.05,
+          "rounds": 20295,
+          "jackpotValue": 0,
+          "result": -304.72,
+          "payout": 110.1,
+          "currency": "EUR"
+        },
+        {
+          "period": "02.04.2019",
+          "totalBet": 1583.31,
+          "totalWin": 1479.98,
+          "rounds": 16776,
+          "jackpotValue": 0,
+          "result": 103.32,
+          "payout": 93.47,
+          "currency": "EUR"
+        },
+        {
+          "period": "03.04.2019",
+          "totalBet": 6108.51,
+          "totalWin": 5325.42,
+          "rounds": 15201,
+          "jackpotValue": 0,
+          "result": 783.13,
+          "payout": 87.18,
+          "currency": "EUR"
+        }
+      ],
+      "Juicy Hot": [
+        {
+          "period": "01.04.2019",
+          "totalBet": 185.82,
+          "totalWin": 183.67,
+          "rounds": 4189,
+          "jackpotValue": 0,
+          "result": 2.12,
+          "payout": 98.86,
+          "currency": "EUR"
+        },
+        {
+          "period": "02.04.2019",
+          "totalBet": 147.67,
+          "totalWin": 142.83,
+          "rounds": 2651,
+          "jackpotValue": 0,
+          "result": 4.83,
+          "payout": 96.73,
+          "currency": "EUR"
+        },
+        {
+          "period": "03.04.2019",
+          "totalBet": 300.13,
+          "totalWin": 265.84,
+          "rounds": 2485,
+          "jackpotValue": 0,
+          "result": 34.26,
+          "payout": 88.58,
+          "currency": "EUR"
+        }
+      ]
+    }
+  },
+  "responseCode": 1000
+}

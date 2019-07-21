@@ -1,0 +1,33 @@
+<div id="simulateSelectTime" onclick="showDropdown(this)" class="styleSimulateSelect">
+	<p>Custom<p>
+</div>
+
+<div id="simulateOptionDropdown" class="styleDropdown" data-value="1">
+	<div class="simulateOption">
+		<input type="text" name="searchTime" placeholder="Search" class="styleSearchInput" oninput="findIt(this)">
+	</div>
+	<div id="divider"></div>
+	<div class="simulateOption" onclick="pickTime(this)">
+		<p class="realOptions">Custom</p>
+	</div>
+	<div class="simulateOption" onclick="pickTime(this); pickThisPeriod(this)">
+		<p class="realOptions">Today</p>
+	</div><div class="simulateOption" onclick="pickTime(this); pickThisPeriod(this)">
+		<p class="realOptions">Yesterday</p>
+	</div>
+	<div class="simulateOption" onclick="pickTime(this); pickThisPeriod(this)">
+		<p class="realOptions">Last Three Days</p>
+	</div>
+	<div class="simulateOption" onclick="pickTime(this); pickThisPeriod(this)">
+		<p class="realOptions">Last Week</p>
+	</div>
+	<div class="simulateOption" onclick="pickTime(this); pickThisPeriod(this)">
+		<p class="realOptions">Last Month</p>
+	</div>
+	<div class="simulateOption" onclick="pickTime(this); pickThisPeriod(this)">
+		<p class="realOptions">Last Quarter</p>
+	</div>
+	<div class="simulateOption" onclick="pickTime(this); pickThisPeriod(this)">
+		<p class="realOptions">Last Year</p>
+	</div>
+</div>

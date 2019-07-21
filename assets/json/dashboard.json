@@ -1,0 +1,873 @@
+{
+"result" : {
+	"portalsActivities" : {
+		"Portal-EUR": {
+			"activities": {
+			  "Today": {
+				"bet": "2.00",
+				"win": "3.00",
+				"jackpotWin": "0.00",
+				"totalWin": "123.00",
+				"ggr": "4.00",
+				"payout": "123.00",
+				"rounds": "0",
+				"largestSingleWin": "1214.00",
+				"uniqueLogins": "2",
+				"newPlayers": "0"
+			  },
+			  "Yesterday": {
+				"bet": "1.00",
+				"win": "22.00",
+				"jackpotWin": "0.00",
+				"totalWin": "254.00",
+				"ggr": "0.00",
+				"payout": "2323.00",
+				"rounds": "200",
+				"largestSingleWin": "170.00",
+				"uniqueLogins": "1",
+				"newPlayers": "0"
+			  },
+			  "MTD": {
+				"bet": "237,333,900.00",
+				"win": "236,597,800.00",
+				"jackpotWin": "0.00",
+				"totalWin": "2326,597,800.00",
+				"ggr": "136,100.00",
+				"payout": "12.00",
+				"rounds": "12,660",
+				"largestSingleWin": "4,000,000.00",
+				"uniqueLogins": "236",
+				"newPlayers": "11"
+			  },
+			  "SPLM": {
+				"bet": "2,791,600.00",
+				"win": "3,292,900.00",
+				"jackpotWin": "0.00",
+				"totalWin": "3,292,900.00",
+				"ggr": "-501,300.00",
+				"payout": "1.18",
+				"rounds": "336",
+				"largestSingleWin": "410,000.00",
+				"uniqueLogins": "66",
+				"newPlayers": "7"
+			  },
+			  "Change": {
+				"bet": "7,068.85",
+				"win": "5,970.35",
+				"jackpotWin": "0.00",
+				"totalWin": "5,970.35",
+				"ggr": "-146.84",
+				"payout": "84.75",
+				"rounds": "3,767.86",
+				"largestSingleWin": "731.71",
+				"uniqueLogins": "357.58",
+				"newPlayers": "157.14"
+			  }
+			}
+		},
+		"Portal-USD": {
+			"activities": {
+			  "Today": {
+				"bet": "0.00",
+				"win": "0.00",
+				"jackpotWin": "0.00",
+				"totalWin": "0.00",
+				"ggr": "0.00",
+				"payout": "0.00",
+				"rounds": "0",
+				"largestSingleWin": "0.00",
+				"uniqueLogins": "0",
+				"newPlayers": "0"
+			  },
+			  "Yesterday": {
+				"bet": "41,320.36",
+				"win": "41,336.35",
+				"jackpotWin": "0.00",
+				"totalWin": "41,336.35",
+				"ggr": "-15.99",
+				"payout": "100.04",
+				"rounds": "59,353",
+				"largestSingleWin": "2,614.99",
+				"uniqueLogins": "1,148",
+				"newPlayers": "288"
+			  },
+			  "MTD": {
+				"bet": "557,333,900.00",
+				"win": "496,597,800.00",
+				"jackpotWin": "0.00",
+				"totalWin": "596,597,800.00",
+				"ggr": "436,100.00",
+				"payout": "1.00",
+				"rounds": "12,660",
+				"largestSingleWin": "6,000,000.00",
+				"uniqueLogins": "236",
+				"newPlayers": "11"
+			  },
+			  "SPLM": {
+				"bet": "2,791,600.00",
+				"win": "3,292,900.00",
+				"jackpotWin": "0.00",
+				"totalWin": "3,292,900.00",
+				"ggr": "-501,300.00",
+				"payout": "1.18",
+				"rounds": "336",
+				"largestSingleWin": "410,000.00",
+				"uniqueLogins": "66",
+				"newPlayers": "7"
+			  },
+			  "Change": {
+				"bet": "7,068.85",
+				"win": "5,970.35",
+				"jackpotWin": "0.00",
+				"totalWin": "5,970.35",
+				"ggr": "-146.84",
+				"payout": "84.75",
+				"rounds": "3,767.86",
+				"largestSingleWin": "731.71",
+				"uniqueLogins": "357.58",
+				"newPlayers": "157.14"
+			  }
+			}
+		},
+		"Portal-RSD": {
+			"activities": {
+			  "Today": {
+				"bet": "23.00",
+				"win": "123.00",
+				"jackpotWin": "523.00",
+				"totalWin": "231.00",
+				"ggr": "0.00",
+				"payout": "10.00",
+				"rounds": "2320",
+				"largestSingleWin": "2320.00",
+				"uniqueLogins": "0",
+				"newPlayers": "0"
+			  },
+			  "Yesterday": {
+				"bet": "5.00",
+				"win": "5123.00",
+				"jackpotWin": "123.00",
+				"totalWin": "0.00",
+				"ggr": "521.00",
+				"payout": "12312.00",
+				"rounds": "0",
+				"largestSingleWin": "4213.00",
+				"uniqueLogins": "222",
+				"newPlayers": "1232"
+			  },
+			  "MTD": {
+				"bet": "197,333,900.00",
+				"win": "196,597,800.00",
+				"jackpotWin": "0.00",
+				"totalWin": "196,597,800.00",
+				"ggr": "736,100.00",
+				"payout": "1.00",
+				"rounds": "12,660",
+				"largestSingleWin": "3,000,000.00",
+				"uniqueLogins": "236",
+				"newPlayers": "11"
+			  },
+			  "SPLM": {
+				"bet": "2,791,600.00",
+				"win": "3,292,900.00",
+				"jackpotWin": "0.00",
+				"totalWin": "3,292,900.00",
+				"ggr": "-501,300.00",
+				"payout": "1.18",
+				"rounds": "336",
+				"largestSingleWin": "410,000.00",
+				"uniqueLogins": "66",
+				"newPlayers": "7"
+			  },
+			  "Change": {
+				"bet": "7,068.85",
+				"win": "5,970.35",
+				"jackpotWin": "0.00",
+				"totalWin": "5,970.35",
+				"ggr": "-146.84",
+				"payout": "84.75",
+				"rounds": "3,767.86",
+				"largestSingleWin": "731.71",
+				"uniqueLogins": "357.58",
+				"newPlayers": "157.14"
+			  }
+			}
+		},
+	
+	"activities" : {
+        "Today": {
+          "bet": "0.00",
+          "win": "0.00",
+          "jackpotWin": "0.00",
+          "totalWin": "0.00",
+          "ggr": "0.00",
+          "payout": "0.00",
+          "rounds": "0",
+          "largestSingleWin": "0.00",
+          "uniqueLogins": "0",
+          "newPlayers": "0"
+        },
+        "Yesterday": {
+          "bet": "41,320.36",
+          "win": "41,336.35",
+          "jackpotWin": "0.00",
+          "totalWin": "41,336.35",
+          "ggr": "-15.99",
+          "payout": "100.04",
+          "rounds": "59,353",
+          "largestSingleWin": "2,614.99",
+          "uniqueLogins": "1,148",
+          "newPlayers": "288"
+        },
+        "MTD": {
+          "bet": "4,534,964.54",
+          "win": "4,346,748.30",
+          "jackpotWin": "0.00",
+          "totalWin": "4,346,748.30",
+          "ggr": "188,216.24",
+          "payout": "95.85",
+          "rounds": "6,101,698",
+          "largestSingleWin": "4,000.00",
+          "uniqueLogins": "115,903",
+          "newPlayers": "17,776"
+        },
+        "SPLM": {
+          "bet": "5,151,726.17",
+          "win": "4,896,726.72",
+          "jackpotWin": "0.00",
+          "totalWin": "4,896,726.72",
+          "ggr": "254,999.45",
+          "payout": "95.05",
+          "rounds": "6,001,413",
+          "largestSingleWin": "4,375.23",
+          "uniqueLogins": "153,414",
+          "newPlayers": "28,578"
+        },
+        "Change": {
+          "bet": "-11.97",
+          "win": "-11.23",
+          "jackpotWin": "0.00",
+          "totalWin": "-11.23",
+          "ggr": "-26.19",
+          "payout": "0.84",
+          "rounds": "1.67",
+          "largestSingleWin": "-8.58",
+          "uniqueLogins": "-24.45",
+          "newPlayers": "-37.8"
+        }
+      }
+  },
+	"jackpots" : {
+		"Silver": {
+          "dashboardJackpots": [
+            {
+              "portalName": "Portal-EUR",
+              "playerId": "Player1-EUR",
+              "time": "05.19.2019 11:12:45",
+              "gameName": "Roulette",
+              "amount": "149.64",
+              "currency": "EUR"
+            },
+            {
+              "portalName": "Portal-EUR",
+              "playerId": "Player2-EUR",
+              "time": "05.18.2019 00:15:36",
+              "gameName": "Book of Spells",
+              "amount": "70.92",
+              "currency": "EUR"
+            },
+            {
+              "portalName": "Portal-USD",
+              "playerId": "Player1-USD",
+              "time": "05.17.2019 03:22:34",
+              "gameName": "Burning Ice Deluxe",
+              "amount": "80.24",
+              "currency": "USD"
+            },
+            {
+              "portalName": "Portal-USD",
+              "playerId": "Player2-USD",
+              "time": "05.16.2019 11:55:10",
+              "gameName": "Roulette",
+              "amount": "52.71",
+              "currency": "USD"
+            },
+            {
+              "portalName": "Portal-USD",
+              "playerId": "Player3-USD",
+              "time": "05.15.2019 18:33:34",
+              "gameName": "Crystal Hot 40",
+              "amount": "13,842.03",
+              "currency": "USD"
+            },
+            {
+              "portalName": "Portal-RSD",
+              "playerId": "Player-RSD",
+              "time": "05.14.2019 17:29:05",
+              "gameName": "Burning Ice Deluxe",
+              "amount": "109.85",
+              "currency": "RSD"
+            }
+          ]
+        },
+        "Gold": {
+          "dashboardJackpots": [
+            {
+              "portalName": "Portal-EUR",
+              "playerId": "Player1-EUR",
+              "time": "05.19.2019 11:12:45",
+              "gameName": "Roulette",
+              "amount": "149.64",
+              "currency": "EUR"
+            },
+            {
+              "portalName": "Portal-EUR",
+              "playerId": "Player2-EUR",
+              "time": "05.18.2019 00:15:36",
+              "gameName": "Book of Spells",
+              "amount": "70.92",
+              "currency": "EUR"
+            },
+            {
+              "portalName": "Portal-USD",
+              "playerId": "Player1-USD",
+              "time": "05.17.2019 03:22:34",
+              "gameName": "Burning Ice Deluxe",
+              "amount": "80.24",
+              "currency": "USD"
+            },
+            {
+              "portalName": "Portal-USD",
+              "playerId": "Player2-USD",
+              "time": "05.16.2019 11:55:10",
+              "gameName": "Roulette",
+              "amount": "52.71",
+              "currency": "USD"
+            },
+            {
+              "portalName": "Portal-USD",
+              "playerId": "Player3-USD",
+              "time": "05.15.2019 18:33:34",
+              "gameName": "Crystal Hot 40",
+              "amount": "13,842.03",
+              "currency": "USD"
+            },
+            {
+              "portalName": "Portal-RSD",
+              "playerId": "Player-RSD",
+              "time": "05.14.2019 17:29:05",
+              "gameName": "Burning Ice Deluxe",
+              "amount": "109.85",
+              "currency": "RSD"
+            }
+          ]
+        },
+        "Platinum": {
+          "dashboardJackpots": [
+            {
+              "portalName": "Portal-EUR",
+              "playerId": "Player1-EUR",
+              "time": "05.19.2019 11:12:45",
+              "gameName": "Roulette",
+              "amount": "149.64",
+              "currency": "EUR"
+            },
+            {
+              "portalName": "Portal-EUR",
+              "playerId": "Player2-EUR",
+              "time": "05.18.2019 00:15:36",
+              "gameName": "Book of Spells",
+              "amount": "70.92",
+              "currency": "EUR"
+            },
+            {
+              "portalName": "Portal-USD",
+              "playerId": "Player1-USD",
+              "time": "05.17.2019 03:22:34",
+              "gameName": "Burning Ice Deluxe",
+              "amount": "80.24",
+              "currency": "USD"
+            },
+            {
+              "portalName": "Portal-USD",
+              "playerId": "Player2-USD",
+              "time": "05.16.2019 11:55:10",
+              "gameName": "Roulette",
+              "amount": "52.71",
+              "currency": "USD"
+            },
+            {
+              "portalName": "Portal-USD",
+              "playerId": "Player3-USD",
+              "time": "05.15.2019 18:33:34",
+              "gameName": "Crystal Hot 40",
+              "amount": "13,842.03",
+              "currency": "USD"
+            },
+            {
+              "portalName": "Portal-RSD",
+              "playerId": "Player-RSD",
+              "time": "05.14.2019 17:29:05",
+              "gameName": "Burning Ice Deluxe",
+              "amount": "109.85",
+              "currency": "RSD"
+            }
+          ]
+        },
+        "Diamond": {
+          "dashboardJackpots": [
+            {
+              "portalName": "Portal-EUR",
+              "playerId": "Player1-EUR",
+              "time": "05.19.2019 11:12:45",
+              "gameName": "Roulette",
+              "amount": "149.64",
+              "currency": "EUR"
+            },
+            {
+              "portalName": "Portal-EUR",
+              "playerId": "Player2-EUR",
+              "time": "05.18.2019 00:15:36",
+              "gameName": "Book of Spells",
+              "amount": "70.92",
+              "currency": "EUR"
+            },
+            {
+              "portalName": "Portal-USD",
+              "playerId": "Player1-USD",
+              "time": "05.17.2019 03:22:34",
+              "gameName": "Burning Ice Deluxe",
+              "amount": "80.24",
+              "currency": "USD"
+            },
+            {
+              "portalName": "Portal-USD",
+              "playerId": "Player2-USD",
+              "time": "05.16.2019 11:55:10",
+              "gameName": "Roulette",
+              "amount": "52.71",
+              "currency": "USD"
+            },
+            {
+              "portalName": "Portal-USD",
+              "playerId": "Player3-USD",
+              "time": "05.15.2019 18:33:34",
+              "gameName": "Crystal Hot 40",
+              "amount": "13,842.03",
+              "currency": "USD"
+            },
+            {
+              "portalName": "Portal-RSD",
+              "playerId": "Player-RSD",
+              "time": "05.14.2019 17:29:05",
+              "gameName": "Burning Ice Deluxe",
+              "amount": "109.85",
+              "currency": "RSD"
+            }
+          ]
+        }
+	},
+	"topTenWinners" : {
+		"Portal-EUR": [
+			{
+			  "id": "Player1-EUR",
+			  "amount": "1"
+			},
+			{
+			  "id": "Player2-EUR",
+			  "amount": "12"
+			},
+			{
+			  "id": "Player3-EUR",
+			  "amount": "13"
+			},
+			{
+			  "id": "Player4-EUR",
+			  "amount": "15"
+			},
+			{
+			  "id": "Player5-EUR",
+			  "amount": "12"
+			},
+			{
+			  "id": "Player6-EUR",
+			  "amount": "21"
+			},
+			{
+			  "id": "Player7-EUR",
+			  "amount": "31"
+			},
+			{
+			  "id": "Player8-EUR",
+			  "amount": "13"
+			},
+			{
+			  "id": "Player9-EUR",
+			  "amount": "651"
+			},
+			{
+			  "id": "Player10-EUR",
+			  "amount": "17"
+			}
+		  ],
+		"Portal-USD": [
+			{
+			  "id": "Player1-USD",
+			  "amount": "1"
+			},
+			{
+			  "id": "Player2-USD",
+			  "amount": "12"
+			},
+			{
+			  "id": "Player3-USD",
+			  "amount": "13"
+			},
+			{
+			  "id": "Player4-USD",
+			  "amount": "15"
+			},
+			{
+			  "id": "Player5-USD",
+			  "amount": "12"
+			},
+			{
+			  "id": "Player6-USD",
+			  "amount": "21"
+			},
+			{
+			  "id": "Player7-USD",
+			  "amount": "31"
+			},
+			{
+			  "id": "Player8-USD",
+			  "amount": "13"
+			},
+			{
+			  "id": "Player9-USD",
+			  "amount": "651"
+			},
+			{
+			  "id": "Player10-USD",
+			  "amount": "17"
+			}
+		  ],
+		"Portal-RSD": [
+		
+			{
+			  "id": "Player1-RSD",
+			  "amount": "1"
+			},
+			{
+			  "id": "Player2-RSD",
+			  "amount": "12"
+			},
+			{
+			  "id": "Player3-RSD",
+			  "amount": "13"
+			},
+			{
+			  "id": "Player4-RSD",
+			  "amount": "15"
+			},
+			{
+			  "id": "Player5-RSD",
+			  "amount": "12"
+			},
+			{
+			  "id": "Player6-RSD",
+			  "amount": "21"
+			},
+			{
+			  "id": "Player7-RSD",
+			  "amount": "31"
+			},
+			{
+			  "id": "Player8-RSD",
+			  "amount": "13"
+			},
+			{
+			  "id": "Player9-RSD",
+			  "amount": "651"
+			},
+			{
+			  "id": "Player10-RSD",
+			  "amount": "17"
+			}
+		  ]
+		
+	},
+	"topTenLosers" : {
+		"Portal-EUR": [
+			{
+			  "id": "Player1-EUR",
+			  "amount": "1"
+			},
+			{
+			  "id": "Player2-EUR",
+			  "amount": "12"
+			},
+			{
+			  "id": "Player3-EUR",
+			  "amount": "13"
+			},
+			{
+			  "id": "Player4-EUR",
+			  "amount": "15"
+			},
+			{
+			  "id": "Player5-EUR",
+			  "amount": "12"
+			},
+			{
+			  "id": "Player6-EUR",
+			  "amount": "21"
+			},
+			{
+			  "id": "Player7-EUR",
+			  "amount": "31"
+			},
+			{
+			  "id": "Player8-EUR",
+			  "amount": "13"
+			},
+			{
+			  "id": "Player9-EUR",
+			  "amount": "651"
+			},
+			{
+			  "id": "Player10-EUR",
+			  "amount": "17"
+			}
+		  ],
+		"Portal-USD": [
+			{
+			  "id": "Player1-USD",
+			  "amount": "1"
+			},
+			{
+			  "id": "Player2-USD",
+			  "amount": "12"
+			},
+			{
+			  "id": "Player3-USD",
+			  "amount": "13"
+			},
+			{
+			  "id": "Player4-USD",
+			  "amount": "15"
+			},
+			{
+			  "id": "Player5-USD",
+			  "amount": "12"
+			},
+			{
+			  "id": "Player6-USD",
+			  "amount": "21"
+			},
+			{
+			  "id": "Player7-USD",
+			  "amount": "31"
+			},
+			{
+			  "id": "Player8-USD",
+			  "amount": "13"
+			},
+			{
+			  "id": "Player9-USD",
+			  "amount": "651"
+			},
+			{
+			  "id": "Player10-USD",
+			  "amount": "17"
+			}
+		  ],
+		"Portal-RSD": [
+		
+			{
+			  "id": "Player1-RSD",
+			  "amount": "1"
+			},
+			{
+			  "id": "Player2-RSD",
+			  "amount": "12"
+			},
+			{
+			  "id": "Player3-RSD",
+			  "amount": "13"
+			},
+			{
+			  "id": "Player4-RSD",
+			  "amount": "15"
+			},
+			{
+			  "id": "Player5-RSD",
+			  "amount": "12"
+			},
+			{
+			  "id": "Player6-RSD",
+			  "amount": "21"
+			},
+			{
+			  "id": "Player7-RSD",
+			  "amount": "31"
+			},
+			{
+			  "id": "Player8-RSD",
+			  "amount": "13"
+			},
+			{
+			  "id": "Player9-RSD",
+			  "amount": "651"
+			},
+			{
+			  "id": "Player10-RSD",
+			  "amount": "17"
+			}
+		  ]
+		
+	},
+	"latestNewPlayers" : {
+		"Portal-EUR": [
+			{
+			  "id": "Player1-EUR",
+			  "name": "name1"
+			},
+			{
+			  "id": "Player2-EUR",
+			  "name": "name2"
+			},
+			{
+			  "id": "Player3-EUR",
+			  "name": "name3"
+			},
+			{
+			  "id": "Player4-EUR",
+			  "name": "name4"
+			},
+			{
+			  "id": "Player5-EUR",
+			  "name": "name5"
+			},
+			{
+			  "id": "Player6-EUR",
+			  "name": "name6"
+			},
+			{
+			  "id": "Player7-EUR",
+			  "name": "name7"
+			},
+			{
+			  "id": "Player8-EUR",
+			  "name": "name8"
+			},
+			{
+			  "id": "Player9-EUR",
+			  "name": "name9"
+			},
+			{
+			  "id": "Player10-EUR",
+			  "name": "name10"
+			}
+		  ],
+		"Portal-USD": [
+			{
+			  "id": "Player1-USD",
+			  "name": "name1"
+			},
+			{
+			  "id": "Player2-USD",
+			  "name": "name2"
+			},
+			{
+			  "id": "Player3-USD",
+			  "name": "name3"
+			},
+			{
+			  "id": "Player4-USD",
+			  "name": "name4"
+			},
+			{
+			  "id": "Player5-USD",
+			  "name": "name5"
+			},
+			{
+			  "id": "Player6-USD",
+			  "name": "name6"
+			},
+			{
+			  "id": "Player7-USD",
+			  "name": "name7"
+			},
+			{
+			  "id": "Player8-USD",
+			  "name": "name8"
+			},
+			{
+			  "id": "Player9-USD",
+			  "name": "name9"
+			},
+			{
+			  "id": "Player10-USD",
+			  "name": "name10"
+			}
+		  ],
+		"Portal-RSD": [
+			{
+			  "id": "Player1-RSD",
+			  "name": "name1"
+			},
+			{
+			  "id": "Player2-RSD",
+			  "name": "name2"
+			},
+			{
+			  "id": "Player3-RSD",
+			  "name": "name3"
+			},
+			{
+			  "id": "Player4-RSD",
+			  "name": "name4"
+			},
+			{
+			  "id": "Player5-RSD",
+			  "name": "name5"
+			},
+			{
+			  "id": "Player6-RSD",
+			  "name": "name6"
+			},
+			{
+			  "id": "Player7-RSD",
+			  "name": "name7"
+			},
+			{
+			  "id": "Player8-RSD",
+			  "name": "name8"
+			},
+			{
+			  "id": "Player9-RSD",
+			  "name": "name9"
+			},
+			{
+			  "id": "Player10-RSD",
+			  "name": "name10"
+			}
+		  ]		  
+	},
+	"pieChart" : [
+		{
+			"numberOfNewPlayers": "75364",
+			"portalName": "Portal-EUR"
+		},
+		{
+			"numberOfNewPlayers": "19873",
+			"portalName": "Portal-USD"
+		},
+		{
+			"numberOfNewPlayers": "16801",
+			"portalName": "Portal-RSD"
+		}
+	]
+}
+}

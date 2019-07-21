@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Accounting</title>
+	<link rel="icon" type="image/png" href="assets/images/favicon.ico">
+
+	<link rel="stylesheet" type="text/css" href="assets/css/main-style.css">
+	<link rel="stylesheet" type="text/css" href="assets/css/accounting.css">
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css" integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay" crossorigin="anonymous">
+	<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/pikaday/css/pikaday.css">
+	<link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
+</head>
+<body>
+<menu-button callback=""></menu-button>
+	<div class="wrapper-container">
+		<div class="sidebar">
+			<div class="logo-wrapper">
+				<a href="index.html"><p><img src="assets/images/logo.png"></p></a>
+			</div>
+			<div class="sidebar-menu">
+				<div class="menu-item">
+					<a class="link-no-decorate" href="index.html"><p class="move-left-a-bit"><i class="menu-item-icon fas fa-clipboard-list"></i><span class="padd-me">Dashboard</span></p></a>
+				</div>
+				<div class="menu-item">
+					<a class="link-no-decorate" href="statistics.html"><p><i class="fas fa-chart-pie"></i><span class="padd-me">Statistic</span></p></a>
+				</div>
+				<div class="menu-item active">
+					<p class="move-right-a-bit"><i class="fas fa-signal"></i><span class="padd-me">Accounting</span></p>
+				</div>
+				<div class="menu-item">
+					<p class="move-right-a-bit"><i class="fas fa-crown"></i></i><span class="padd-me">Operators</span></p>
+				</div>
+				<div class="menu-item">
+					<p><i class="fas fa-cog"></i><span class="padd-me">Configuration</span></p>
+				</div>
+				<div class="menu-item">
+					<p><i class="fas fa-sign-out-alt"></i><span class="padd-me">Logout</span></p>
+				</div>
+				<div class="menu-item">
+					<p><i class="fas fa-user-alt"></i><span class="padd-me">Support</span></p>
+				</div>
+			</div> <!-- sidebar menu -->
+		</div> <!-- sidebar main -->
+
+		<div class="main-content">
+			<div class="first-horizontal-block">
+				<div class="sections" id="summary" onclick="changeSection(0);">
+					<p class="active-section">REPORTS</p>
+				</div>
+				<div class="sections" id="gamesSummary" onclick="changeSection(1);">
+					<p class="margin-me-left">SETUP</p>
+				</div>
+			</div>
+
+			<period-picker callback=""></period-picker>
+
+			<bonus-slider callback=""></bonus-slider>
+
+			<deduction-slider callback=""></deduction-slider>
+ 				
+
+			<date-picker onFromChange="ChangeFromDate" onToChange="ChangeToDate"></date-picker>
+
+			<div class="infoFromJson">
+				<div class="row">
+					<div class="col"><p id="operatorN"></p></div>
+					<div class="col"><p id="casinoC"></p></div>
+					<div class="col"><p id="period"></p></div>
+				</div>
+			</div>
+
+			<div class="main-table-block active-category">
+
+				<table id='accounting-table'>
+						<thead>
+							<th class="headElement" id="gameName">Game Name</th>
+							<th class="headElement" id="totalBet">Total Bet</th> 
+							<th class="headElement" id="totalWin">Total Win</th>
+							<th class="headElement" id="jackpot">Jackpot</th>
+							<th class="headElement" id="ggr">GGR</th>
+							<th class="headElement" id="vat">VAT</th>
+							<th class="headElement" id="bonusRate">Bonus Rate</th>
+							<th class="headElement" id="gamingTax">Gaming Tax</th>
+							<th class="headElement" id="ngr">NGR</th>
+							<th class="headElement" id="toBePaid">To be paid</th>
+						</thead>
+						<tbody>
+						</tbody>
+					</tr>
+				</table>
+			</div>
+
+			<div class="main-table-block">
+				<!-- Empty Category -->
+			</div>
+		</div>
+	</div>
+
+	<script type="text/javascript" src="assets/js/show-dropdown.js"></script>
+	<script type="text/javascript" src="assets/js/change-section.js"></script>
+	<script type="text/javascript" src="assets/js/shared.js"></script>
+	<script type="text/javascript" src="assets/js/accounting.js"></script>
+</body>
+</html>

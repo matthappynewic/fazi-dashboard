@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Dashboard</title>
+	<link rel="icon" type="image/png" href="assets/images/favicon.ico">
+	<link rel="stylesheet" type="text/css" href="assets/css/main-style.css">
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css" integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay" crossorigin="anonymous">
+	<link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
+</head>
+<body>
+
+<menu-button callback=""></menu-button>
+
+	<div class="wrapper-container">
+
+		<div class="sidebar">
+			<div class="logo-wrapper">
+				<a href="index.html"><p><img src="assets/images/logo.png"></p></a>
+			</div>
+			<div class="sidebar-menu">
+				<div class="menu-item active">
+					<a class="link-no-decorate" href="index.html"><p class="move-left-a-bit"><i class="menu-item-icon fas fa-clipboard-list"></i><span class="padd-me">Dashboard</span></p></a>
+				</div>
+				<div class="menu-item">
+					<a class="link-no-decorate" href="statistics.html"><p><i class="fas fa-chart-pie"></i><span class="padd-me">Statistic</span></p></a>
+				</div>
+				<div class="menu-item">
+					<a class="link-no-decorate" href="accounting.html"><p class="move-right-a-bit"><i class="fas fa-signal"></i><span class="padd-me">Accounting</span></p></a>
+				</div>
+				<div class="menu-item">
+					<p class="move-right-a-bit"><i class="fas fa-crown"></i></i><span class="padd-me">Operators</span></p>
+				</div>
+				<div class="menu-item">
+					<p><i class="fas fa-cog"></i><span class="padd-me">Configuration</span></p>
+				</div>
+				<div class="menu-item">
+					<p><i class="fas fa-sign-out-alt"></i><span class="padd-me">Logout</span></p>
+				</div>
+				<div class="menu-item">
+					<p><i class="fas fa-user-alt"></i><span class="padd-me">Support</span></p>
+				</div>
+			</div> <!-- sidebar menu -->
+		</div> <!-- sidebar main -->
+
+		<div class="main-content">
+
+			<div class="first-horizontal-block">
+				<div class="sections" id="dashboard" onclick="changeSection(0);">
+					<p class="active-section">DASHBOARD</p>
+				</div>
+				<div class="sections" id="jackpot" onclick="changeSection(1);">
+					<p class="margin-me-left">JACKPOT WINS</p>
+				</div>
+				<div class="sections" id="players" onclick="changeSection(2);">
+					<p class="margin-me-left">PLAYERS</p>
+				</div>
+				<div class="sections" id="portals" onclick="changeSection(3);">
+					<p class="margin-me-left">PORTALS</p>
+				</div>
+
+				<currency-picker callback="RenderTables"/>
+
+			</div>
+
+			<div class="main-table-block active-category">
+				<!-- Dashboard table -->
+				<table id="dashboard-table">
+					<thead>
+						<th onclick="toggleSort(this)" data-value="1">Activity <span  class="sorter" >v</span></th>
+						<th class="headElement">Today</th>
+						<th class="headElement">Yesterday</th>
+						<th class="headElement">MTD</th>
+						<th class="headElement">SPLM</th>
+						<th class="headElement">Change</th>
+					</thead>
+					<tbody class="dashboard-body">
+						<tr class="displayMeNot"></tr>
+						<tr class="bet">
+							<td>Bet</td>
+						</tr>
+							<tr class="win">
+							<td>Win</td>
+						</tr>
+							<tr class="jackpotWin">
+							<td>Jackpot Win</td>
+						</tr>
+							<tr class="totalWin">
+							<td>Total Win</td>
+						</tr>
+							<tr class="ggr">
+							<td>GGR</td>
+						</tr>
+							<tr class="payout">
+							<td>Payout</td>
+						</tr>
+							<tr class="rounds">
+							<td>Rounds</td>
+						</tr>
+							<tr class="largestSingleWin">
+							<td>Largest Single Win</td>
+						</tr>
+							<tr class="uniqueLogins">
+							<td>Unique Logins</td>
+						</tr>
+							<tr class="newPlayers">
+							<td>New Players</td>
+						</tr>
+					</tbody>
+				</table>
+			</div>
+
+			<div class="main-table-block">
+				<!-- Jackpots table -->
+				<table id='jackpots-table'>
+						<thead>
+							<th class="headElement" id="portalName">Portal Name</th>
+							<th class="headElement" id="playerId">Player Id</th> 
+							<th class="headElement" id="time">Time</th>
+							<th class="headElement" id="gameName">Game Name</th>
+							<th class="headElement" id="amount">Amount</th>
+							<th class="headElement" id="currency">Currency</th>
+						</thead>
+						<tbody>
+						</tbody>
+				</table>
+			</div>
+
+			<div class="main-table-block">
+			</div>
+
+			<div class="main-table-block">
+				<!-- Portals table -->
+				<div class="searchbox">
+					<input type="text" oninput="SearchPortals(this.value)" placeholder="Search portals">
+				</div>
+				  
+				<table id="portals-table">
+					<thead>
+						<th>Activity</th>
+						<th class="headElement">Today</th> 
+						<th class="headElement">Yesterday</th>
+						<th class="headElement">MTD</th>
+						<th class="headElement">SPLM</th>
+						<th class="headElement">Change</th>
+					</thead>
+					<tbody class="postals-body">
+						<tr class="bet">
+							<td>Bet</td>
+						</tr>
+							<tr class="win">
+							<td>Win</td>
+						</tr>
+							<tr class="jackpotWin">
+							<td>Jackpot Win</td>
+						</tr>
+							<tr class="totalWin">
+							<td>Total Win</td>
+						</tr>
+							<tr class="ggr">
+							<td>GGR</td>
+						</tr>
+							<tr class="payout">
+							<td>Payout</td>
+						</tr>
+							<tr class="rounds">
+							<td>Rounds</td>
+						</tr>
+							<tr class="largestSingleWin">
+							<td>Largest Single Win</td>
+						</tr>
+							<tr class="uniqueLogins">
+							<td>Unique Logins</td>
+						</tr>
+							<tr class="newPlayers">
+							<td>New Players</td>
+						</tr>
+					</tbody>
+				</table>
+			</div>
+		</div>
+	</div>
+
+	<script type="text/javascript" src="assets/js/sort-table.js"></script>
+	<script type="text/javascript" src="assets/js/change-section.js"></script>
+	<script type="text/javascript" src="assets/js/shared.js"></script>
+	<script type="text/javascript" src="assets/js/index.js"></script>
+</body>
+</html>

@@ -1,0 +1,332 @@
+#simulateOptionDropdown{
+	display: none;
+	min-height: auto;
+	background-color :#434A5C;
+	max-width: 180px;
+	cursor: pointer;
+	-webkit-box-shadow: 0px 10px 20px -4px rgba(0,0,0,0.35);
+	-moz-box-shadow: 0px 10px 20px -4px rgba(0,0,0,0.35);
+	box-shadow: 0px 10px 20px -4px rgba(0,0,0,0.35);
+}
+
+#divider{
+	height: 2px;
+	width: 100%;
+	background-color:#393F4C;
+	margin-top: 2px;
+}
+
+.carry{
+	max-width: 180px;
+	position: relative;
+    z-index: 100;
+    display: inline-flex;
+}
+
+.positionCarry{
+	position: relative;
+    z-index: 101;
+}
+
+.big-carry{
+	width: 285px;
+	max-width: 285px;
+	border: 1px solid gray;
+	top: -9px;
+	padding-left:2px;
+	padding-right: 2px;
+}
+
+.period-carry{
+	width: 395px;
+	max-width: 410px;
+}
+
+.datepicker{
+	border: none;
+    background: #DD9853;
+    height: 20px;
+    position: relative;
+    top: -2px;
+    padding-left: 5px;
+    color:white;
+}
+
+.datepicker::placeholder{
+	color:white;
+}
+
+.perfect-align-me{
+	position: relative;
+	top:1px;
+	left:1px;
+}
+
+.styleSimulateSelect{
+	max-width: 150px;
+	min-height: 30px;
+	background:#DD9853;
+	display: inline-flex;
+    align-items: center;
+    cursor: pointer;
+    width: 20%;
+    min-width: 150px;
+
+}
+
+.styleDropdown{
+	width: 20%;
+	display: inline-flex;
+	position: absolute;
+    min-width: 150px;
+    top: 40px;
+}
+
+.styleSimulateSelect p{
+	color:white;
+	padding: 0px 5px;
+	font-size: 14px;
+}
+
+.styleSearchInput{
+	background: #313C4A;
+	border:1px solid #4A5460;
+	padding:5px 5px;
+	position: relative;
+	left: -5px;
+	width: 96%;
+	color:white;
+}
+
+.simulateOption{
+	color: white;
+	padding:5px;
+	max-width: 170px;
+	cursor: pointer;
+	transition: 0.2s ease-in-out all;
+}
+
+.simulateCheckbox{
+	color: white;
+    max-width: 170px;
+    margin-top: 20px;
+    padding-bottom: 10px;
+}
+
+.simulateCheckbox:hover{
+	background-color:#DD9853;
+}
+
+.checkboxLabels-no-padd{
+	padding-left: 3px !important;
+}
+
+.checkboxLabels-no-padd::before{
+	left:-18px !important;
+}
+
+.checkboxLabels-no-padd::after{
+	left: -15px !important;
+}
+
+.simulateOption:hover{
+	background-color:#DD9853;
+}
+
+.simulateOption:first-child:hover{
+	background-color:transparent;
+}
+
+.simulateOption:first-child{
+	padding:7px;
+}
+
+.simulateOption p{
+	padding:2px;
+	font-size:13px;
+}
+
+/* Code for Slider */
+
+.slidecontainer {
+  width: 180px;
+  max-width: 180px;
+  min-height: 30px;
+  position: relative;
+  top: 7px;
+  display: -webkit-box;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    /* display: none; <- Crashes Chrome on hover */
+    -webkit-appearance: none;
+    margin: 0; /* <-- Apparently some margin are still there even though it's hidden */
+}
+
+input[type=number] {
+    -moz-appearance:textfield; /* Firefox */
+}
+
+.slidecontainer p{
+	color:white;
+	font-size: 12px;
+	padding-right: 10px;
+}
+
+.displayInline{
+	display: inline-flex;
+}
+
+.slider {
+  -webkit-appearance: none;
+  width: 100%;
+  height: 7px;
+  background: #313C4A;
+  outline: none;
+  opacity: 0.7;
+  -webkit-transition: .2s;
+  transition: opacity .2s;
+}
+
+.slider:hover {
+  opacity: 1;
+}
+
+.slider::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 15px;
+  height: 17px;
+  background: #DD9853;
+  cursor: pointer;
+}
+
+.slider::-moz-range-thumb {
+  width: 25px;
+  height: 25px;
+  background: #4CAF50;
+  cursor: pointer;
+}
+
+.sliderValues{
+	max-width: 24px;
+	background: transparent;
+	border:none;
+	position: relative;
+	top: -1px;
+	color:white;
+}
+
+.sliderValues::-webkit-outer-spin-button,
+.sliderValues::-webkit-inner-spin-button {
+    /* display: none; <- Crashes Chrome on hover */
+    -webkit-appearance: none;
+    margin: 0; /* <-- Apparently some margin are still there even though it's hidden */
+}
+
+input[type=number] {
+    -moz-appearance:textfield; /* Firefox */
+}
+
+.percent{
+	font-size: 13px;
+    position: relative;
+    top: -1px;
+    left:-1px;
+    color:white;
+}
+
+.styleInputNumber{
+    padding: 2px 20px;
+    background-color: #313C4A;
+    position: relative;
+    top: -3px;
+    left: -5px;
+    height: 18px;
+}
+
+.pika-table th{
+	color:white !important;
+}
+
+#searchGames{
+	background:#259063;
+	border:none;
+	width: 33px;
+	height: 28px;
+	background-image: url('../images/search.png');
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: 14px;
+	border-radius: 15%;
+	position: relative;
+	top: -1px;
+}
+
+.checkbox{
+	margin-top: -18px;
+    margin-left: 26px;
+    position: relative;
+    top: 4px;
+}
+
+.checkbox input[type="checkbox"] {
+    opacity: 0;
+    display: none;
+}
+
+.first-checkbox{
+    top: -1px !important;
+    margin-top: -26px !important;
+    margin-left: 46px !important;
+}
+
+.checkbox label {
+    position: relative;
+    display: inline-block;
+    padding-left: 22px;
+}
+
+.checkbox label::before,
+.checkbox label::after {
+    position: absolute;
+    content: "";
+    display: inline-block;
+}
+
+.checkbox label::before{
+    height: 14px;
+    width: 14px;
+    border: 1px solid #4A5460;
+    left: 0px;
+}
+
+.checkbox label::after {
+    height: 5px;
+    width: 9px;
+    border-left: 2px solid;
+    border-bottom: 2px solid;
+    transform: rotate(-45deg);
+    left: 3px;
+    top: 3px;
+}
+
+.checkbox input[type="checkbox"] + label::after {
+    content: none;
+}
+
+.checkbox input[type="checkbox"]:checked + label::after {
+    content: "";
+}
+
+.checkboxLabels{
+	font-size: 13px;
+}
+
+#selectedCategories{
+text-overflow: ellipsis;
+white-space: nowrap;
+overflow: hidden;
+width:auto;
+}
